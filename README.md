@@ -111,7 +111,7 @@ Reach-out to me in following spaces.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrushaliphalke99@gmail.com?subject=Hi "Hi!")
 
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushali-phalke-075427247/)
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 ## 📚 References
