@@ -1,5 +1,5 @@
 # NetflixMovies-TVShowsClustering
-<h1 align='center'> :microscope: Unsupervised-Clustering-Analysis-on-Netflix-Movies-And-TV Shows.</h1>
+<h1 align='center'> :microscope: Netflix Movies And TV Shows Unsupervised Clustering.</h1>
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
